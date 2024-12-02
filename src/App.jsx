@@ -10,7 +10,7 @@ import DetailpageO from './pages/DetailpageO'
 import DetailpageV from './pages/DetailpageV'
 import DetailpageA from './pages/detailpageA'
 import DetailpageVo from './pages/DetailpageVo'
-import Layout from './pages/footerO'
+import Layout from './pages/Layout'
 
 
 
