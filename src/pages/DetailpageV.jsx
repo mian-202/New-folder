@@ -2,12 +2,6 @@ import React from 'react'
 
 import { useParams } from 'react-router-dom';
 import { product } from './Data';
-
-
-
-
-
-
 const DetailpageV = () => {
     const {id}= useParams();
     const filterdata = product.find((x)=>x.id == id);
